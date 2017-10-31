@@ -4,7 +4,7 @@
   "description": "Make a simple calculator",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon server"
   },
   "author": "Peter Tan",
   "license": "ISC",
