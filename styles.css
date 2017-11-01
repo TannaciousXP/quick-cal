@@ -1,0 +1,28 @@
+body, html {
+  height: 100%;
+}
+
+#wrapper {
+  display: -webkit-flex;
+  display: flex;
+  background-color: #34495e;
+  width: 100%;
+  height: 100%;
+  -webkit-justify-conetent: center;
+  justify-content: center;
+  align-content: center;
+  -webkit-align-content: center;
+  align-items: center;
+  -webkit-align-items: center;
+
+}
+
+#cal {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  flex-direction: column;
+  height: 500px;
+  width: 400px;
+  background-color: #7f8c8d;
+}
